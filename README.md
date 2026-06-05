@@ -1,10 +1,10 @@
 # LAU-NetV2 🚀  
-**Official PyTorch Implementation (Anonymous Review Version)**
+**Official PyTorch Implementation**
 
 This repository provides the official implementation of:
 
 **Real-Time Speech Enhancement on Edge Devices Using Harmonic and Voice-Activity Cues from a Skin-Attachable Accelerometer**  
-*(Under review at Interspeech 2026)*
+*(Paper accepted at Interspeech 2026)*
 
 ---
 
